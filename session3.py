@@ -135,10 +135,18 @@ welcome mr ahmad
 
 # TUPLE
 
-salaries = (1000,2000,3000)
-print(type(salaries))
-print(salaries)
-print(salaries[1])
-# salaries[1]=2500
-for salary in salaries:
-    print(salary)
+# salaries = (1000,2000,3000)
+# print(type(salaries))
+# print(salaries)
+# print(salaries[1])
+# # salaries[1]=2500
+# for salary in salaries:
+#     print(salary)
+
+
+# users = ["amir","ali","reza","ahmad"]
+# print(users.index("ali"))
+
+names = ("amir","ali","reza","ahmad")
+
+print(names.index("ali"))
